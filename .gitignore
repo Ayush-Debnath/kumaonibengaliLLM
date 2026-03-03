@@ -1,0 +1,15 @@
+# Ignore dataset folder
+data/
+
+# Ignore model weight files
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# Ignore virtual environments
+venv/
+llm_env/
+
+# Ignore cache
+__pycache__/
